@@ -1,0 +1,9 @@
+
+*.zip
+*.pkl
+*.flac
+*.pdf
+*.txt
+*.sig
+PA/ASVspoof2019_PA_dev/.DS_Store
+.DS_Store
